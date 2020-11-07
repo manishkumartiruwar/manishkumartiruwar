@@ -12,7 +12,7 @@ img {
 
 <h2>Rounded Images</h2>
 
-<img src="https://github.com/account" alt="Avatar" style="width:200px">
+<img src="https://avatars0.githubusercontent.com/u/53038098?s=460&am" alt="Avatar" style="width:200px">
 
 </body>
 </html> 
