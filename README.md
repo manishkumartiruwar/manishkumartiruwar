@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 <html>
-
-  <head>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -8,12 +8,11 @@ img {
 }
 </style>
 </head>
-  
-  <body>
- <img src="https://avatars0.githubusercontent.com/u/53038098?s=460&am"> 
-  
-  
+<body>
 
-  </body
-  
-</html>
+<h2>Rounded Images</h2>
+
+<img src="https://github.com/account" alt="Avatar" style="width:200px">
+
+</body>
+</html> 
