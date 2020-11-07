@@ -36,7 +36,7 @@
 
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
-    <img src="/w3images/la.jpg" style="width:100%">
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fec%2Fe3%2F1e%2Fece31e1bc2260f85d70bdce80fff765a.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F819092250961314634%2F&tbnid=vM5jWHSUNrqcuM&vet=12ahUKEwjkwdbWxfHsAhV8ynMBHYwSBOsQMygTegUIARDhAQ..i&docid=zDRj9MIz3a2xXM&w=800&h=533&q=stock%20photo&hl=en&ved=2ahUKEwjkwdbWxfHsAhV8ynMBHYwSBOsQMygTegUIARDhAQ" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Los Angeles</h3>
       <p><b>We had the best time playing at Venice Beach!</b></p>   
@@ -175,7 +175,7 @@
 </div>
 
 <!-- Image of location/map -->
-<img src="/w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fec%2Fe3%2F1e%2Fece31e1bc2260f85d70bdce80fff765a.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F819092250961314634%2F&tbnid=vM5jWHSUNrqcuM&vet=12ahUKEwjkwdbWxfHsAhV8ynMBHYwSBOsQMygTegUIARDhAQ..i&docid=zDRj9MIz3a2xXM&w=800&h=533&q=stock%20photo&hl=en&ved=2ahUKEwjkwdbWxfHsAhV8ynMBHYwSBOsQMygTegUIARDhAQ" class="w3-image w3-greyscale-min" style="width:100%">
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
