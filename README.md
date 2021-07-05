@@ -1,5 +1,5 @@
-<html>
 
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title></title>
 <body>
 <img src="https://avatars0.githubusercontent.com/u/53038098?s=460&amp;u=0f8dbdf4414b935eb7fe6307e75bea4c3f4f0694&amp;v=4"; class="img-circle" alt="Cinque Terre">
 <script language="JavaScript">
@@ -202,6 +202,7 @@ seconds?</center>
 </tr>
 <tr><td colspan="10"><hr size="1"></td>
 </tr></tbody></table></center></form>
+ </td></tr></tbody></table>     
 </body>
 </html> 
 
